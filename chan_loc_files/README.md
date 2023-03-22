@@ -3,7 +3,7 @@ Here you can find channel location files for setups used in Kiel
 
 | file | amp | location | info |
 |------|-----|----------| ---- |
-| BCA-128-pass-lay* | actiChamp | UKSH Kiel | Layout files for the 128 channel cap |
+| BC-128-pass-lay* | actiChamp | UKSH Kiel | Layout files for the 128 channel cap |
 | BC-MR-32* | actiChamp | UKSH Kiel |  Layout files for the 32 channel cap from Helmut Laufs |
 
 
