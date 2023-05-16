@@ -1,5 +1,9 @@
 # lab-utilities
-This repo contains relevant utilities for eeg lab research
+This repo contains relevant utilities for eeg lab research at the [University of Kiel](https://www.uni-kiel.de/de/) and is maintained by various members from the [Department of Psychology](https://www.psychologie.uni-kiel.de/de) and the [Department of Neurology](https://www.neurologie.uni-kiel.de/de).
+
+## Welcome <3
+
+<img src="lab_pics\lab_wide.jpg"  width="40%">
 
 ## structure
 ```markdown
